@@ -6,3 +6,5 @@ Frontend создан с помощью библиотеки Ext JS (Sencha), Ya
 Backend на основе PHP.
 <br>
 База данных на основе Web SQL Database
+<br><br><br>
+Скриншот сайта показан в Wiki.
