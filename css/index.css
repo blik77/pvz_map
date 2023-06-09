@@ -1,0 +1,28 @@
+.statusNO { background-color: red !important; }
+.statusInP { background-color: orange !important; }
+.statusYES { background-color: green !important; }
+
+.status_redIcon { background-color: #E54949 !important; }
+.status_blueIcon { background-color: #508DFD !important; }
+.status_darkOrangeIcon { background-color: #DE791B !important; }
+.status_nightIcon { background-color: #164477 !important; }
+.status_darkBlueIcon { background-color: #3E74C6 !important; }
+.status_pinkIcon { background-color: #EF69D0 !important; }
+.status_grayIcon { background-color: #B1B1B2 !important; }
+.status_brownIcon { background-color: #744109 !important; }
+.status_darkGreenIcon { background-color: #15AF06 !important; }
+.status_violetIcon { background-color: #B800FD !important; }
+.status_blackIcon { background-color: #595959 !important; }
+.status_yellowIcon { background-color: #F7D626 !important; }
+.status_greenIcon { background-color: #59DF46 !important; }
+.status_orangeIcon { background-color: #F79622 !important; }
+.status_lightBlueIcon { background-color: #8EC8FE !important; }
+.status_oliveIcon { background-color: #91A308 !important; }
+
+.save_but { background-image: url( ../images/save_but.png ) !important; }
+.add_but { background-image: url( ../images/add_but.png ) !important; }
+.logout { background-image: url( ../images/logout.gif ) !important; }
+.cancel_but { background-image: url( ../images/cancel_but.png ) !important; }
+.accept { background-image: url( ../images/accept.png ) !important; }
+.edit_but { background-image: url( ../images/comment_edit.png ) !important; }
+.link_but { background-image: url( ../images/link_but.png ) !important; }
